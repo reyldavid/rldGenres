@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genres2020", "Genres2020\Genres2020.csproj", "{3F01CE4F-69E2-4139-9DEC-CEF46CE20E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenreCoreTests", "GenreCoreTests\GenreCoreTests.csproj", "{21AD6448-5545-4B19-A333-99042D175CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F01CE4F-69E2-4139-9DEC-CEF46CE20E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F01CE4F-69E2-4139-9DEC-CEF46CE20E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F01CE4F-69E2-4139-9DEC-CEF46CE20E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F01CE4F-69E2-4139-9DEC-CEF46CE20E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AD6448-5545-4B19-A333-99042D175CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AD6448-5545-4B19-A333-99042D175CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AD6448-5545-4B19-A333-99042D175CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AD6448-5545-4B19-A333-99042D175CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
